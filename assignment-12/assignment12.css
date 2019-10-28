@@ -1,0 +1,46 @@
+.image-1 {
+    height: 30px;
+    width: 30px;
+}
+
+.btn1 {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
+
+.image-2 {
+    height: 300px;
+    width: 300px;
+}
+
+.row-3,
+.row-4 {
+    text-align: center;
+}
+
+.row-2,
+.row-3,
+.row-4 {
+    margin-bottom: 50px;
+}
+
+.row-1,
+.row-2 {
+    border-bottom: 2px solid whitesmoke;
+}
+
+.image-3 {
+    width: 100px;
+    height: 50px;
+}
+
+.image-4 {
+    height: 300px;
+    width: 300px;
+}
+
+.shrink {
+    margin-left: auto;
+    margin-right: auto;
+}
