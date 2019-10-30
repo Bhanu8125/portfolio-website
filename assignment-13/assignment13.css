@@ -1,0 +1,33 @@
+.align {
+    text-align: center;
+}
+
+.btn1 {
+    border: 1px solid white;
+    color: white;
+}
+
+.column1 {
+
+    background-color: black;
+}
+
+.right {
+    text-align: right;
+}
+
+.color {
+    color: darkgrey;
+}
+
+.h6 {
+    font-color: black;
+}
+
+.bg1 {
+    background-color: skyblue;
+}
+
+.padd {
+    padding: 1px;
+}
