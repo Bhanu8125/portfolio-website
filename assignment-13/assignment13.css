@@ -29,5 +29,56 @@
 }
 
 .padd {
-    padding: 1px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.smoke {
+    background-color: whitesmoke
+}
+
+.left {
+    text-align: left;
+}
+
+.minus {
+    margin-right: -50px;
+}
+
+
+.mini {
+    margin-right: -75px;
+}
+
+.margin {
+    margin-right: -5px;
+    margin-left: -5px;
+}
+
+.pad {
+    padding-top: auto;
+    padding-bottom: auto;
+}
+
+.none {
+    list-style-type: none;
+    font-size: 10px;
+    color: darkgrey;
+}
+
+.full {
+    background-color: black;
+}
+
+.colpad {
+    padding: 10px;
+}
+
+.colpad1 {
+    margin-top: 7px;
+}
+
+.btn2 {
+    color: white;
 }
