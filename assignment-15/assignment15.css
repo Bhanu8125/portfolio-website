@@ -1,0 +1,27 @@
+@media (max-width:576px) {
+
+
+    .underline {
+        display: none;
+    }
+
+
+}
+
+.center {
+
+    margin-top: 50px;
+    border: 1px solid black;
+    padding: 2%;
+}
+
+@media (min-width:767px) {
+
+    .inline-block {
+        display: inline-block;
+        width: 48%;
+        padding: 2%;
+        vertical-align: top;
+    }
+
+}

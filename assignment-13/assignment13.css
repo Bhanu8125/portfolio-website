@@ -1,4 +1,4 @@
-.align {
+/*.align {
     text-align: center;
 }
 
@@ -81,4 +81,76 @@
 
 .btn2 {
     color: white;
+}
+
+.margin-left {
+    margin-left: -15px;
+}
+
+.margin-right {
+    margin-right: -20px;
+}
+*/
+
+.mar-left {
+    margin-left: 50px;
+}
+
+.logo-container {
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.space {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+.align {
+    text-align: center;
+}
+
+.column1 {
+
+    background-color: black;
+}
+
+.smoke {
+    background-color: whitesmoke
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.image-percent {
+    width: 20%;
+}
+
+.mar-bottom {
+    margin-bottom: 15px;
+}
+
+.mar-side {
+    margin-left: 15px;
+    margin-right: 15px
+}
+
+.right {
+    text-align: right;
+}
+
+.invert {
+    filter: invert(100%);
+}
+
+.btn-outline-primary {
+    color: white;
+    border: 1px solid white;
+}
+
+.bg1 {
+    background-color: skyblue;
 }

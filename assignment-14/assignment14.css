@@ -1,0 +1,48 @@
+.center {
+
+    margin-top: 50px;
+    border: 1px solid black;
+    padding: 2%;
+}
+
+@media (max-width:576px) {
+
+    /*.heading {*/
+    /*    font-size: 50px;*/
+    /*    margin-top: 15px;*/
+    /*}*/
+    /*.subheading {*/
+    /*    font-size: 35px;*/
+    /*    margin-top: 15px;*/
+    /*}*/
+    /*.description {*/
+    /*    font-size: 20px;*/
+    /*    margin-top: 15px;*/
+    /*}*/
+    .medium {
+
+        display: none;
+    }
+
+}
+
+@media (min-width:767px) {
+
+    /*.subheading2 {
+        */
+    /*    font-size: 35px;*/
+    /*    margin-top: 15px;*/
+    /*}*/
+    /*.description2 {*/
+    /*    font-size: 20px;*/
+    /*    margin-top: 15px;*/
+}
+
+.medium {
+
+    background-color: lightgrey;
+
+}
+
+
+}

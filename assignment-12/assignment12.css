@@ -72,17 +72,16 @@
 }
 
 .image-5 {
-    height: 250px;
-    width: 250px;
+
+    width: 100%;
 }
 
 .image-6 {
-    height: 50px;
-    width: 70px;
+    width: 75px;
 }
 
 .row-3,
-.row-5,
+
 .row-6,
 .row-8,
 .row-10,
@@ -126,4 +125,65 @@ a {
 
     padding: 20px;
     color: black;
+}
+
+.textpadding {
+
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 80px;
+
+}
+
+.mobile-edit {
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: center;
+    background-color: whitesmoke;
+    padding-top: 80px;
+    background-clip: content-box;
+
+}
+
+.landing-section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: whitesmoke;
+
+}
+
+.left-item {
+    display: inline-block;
+    padding-left: 50px;
+
+    width: 45%;
+
+}
+
+.landing-section-image {
+    display: inline-block;
+    width: 50%;
+}
+
+.landing-section-tablet {
+    padding-left: 50px;
+}
+
+.take-action {
+    padding-right: 30px;
+    padding-left: 30px;
+    text-align: center;
+    padding-top: 80px;
+    background-clip: content-box;
+
+}
+
+.avoid-suspicious {
+    padding-top: 100px;
+    background-color: whitesmoke;
+    padding-bottom: 100px;
+}
+
+.borderbox {
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .12), inset 0 -1px 0 0 #dadce0;
 }

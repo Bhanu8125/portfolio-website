@@ -1,0 +1,40 @@
+@media (max-width:576px) {
+
+
+    .underline {
+        display: none;
+    }
+    .disappearmob {
+        display: none;
+    }
+
+
+}
+
+@media (min-width:767px) {
+
+    .inline-block {
+        display: inline-block;
+        width: 48%;
+        padding: 2%;
+        vertical-align: top;
+    }
+    .disappeartab {
+        display: none;
+
+    }
+    p {
+        color: grey;
+    }
+
+}
+
+
+.heading {
+    text-align: center;
+    border-bottom: 2px grey;
+}
+
+body {
+    padding: 2%;
+}
